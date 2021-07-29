@@ -4,7 +4,7 @@ repo: backup-uptime # The name of this repository
 
 sites:
   - name: offsitedatasync.com
-    url: https://www.offsitedatasync.com.com
+    url: https://www.offsitedatasync.com
   - name: keepitsafe
     url: https://www.keepitsafe.com/
   - name: livevault
