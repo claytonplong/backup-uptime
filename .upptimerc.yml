@@ -3,12 +3,18 @@ owner: claytonplong # Your GitHub organization or username, where this repositor
 repo: backup-uptime # The name of this repository
 
 sites:
-  - name: offsitedatasync.com
+  - name: www.offsitedatasync.com
     url: https://www.offsitedatasync.com
-  - name: keepitsafe
+  - name: www.keepitsafe
     url: https://www.keepitsafe.com/
-  - name: livevault
+  - name: www.livevault
     url: https://www.livevault.com
+  - name: offsitedatasync.com
+    url: https://offsitedatasync.com
+  - name: keepitsafe
+    url: https://keepitsafe.com/
+  - name: livevault
+    url: https://livevault.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
