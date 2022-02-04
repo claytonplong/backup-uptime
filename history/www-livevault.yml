@@ -1,7 +1,7 @@
 url: https://www.livevault.com
-status: down
-code: 503
-responseTime: 303
-lastUpdated: 2022-02-04T02:30:00.627Z
+status: up
+code: 200
+responseTime: 293
+lastUpdated: 2022-02-04T02:40:37.642Z
 startTime: Thu Jul 29 2021 19:08:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
