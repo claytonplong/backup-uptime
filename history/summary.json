@@ -60,8 +60,8 @@
     "slug": "offsitedatasync-com",
     "status": "down",
     "uptime": "59.83%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "85.75%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.65%",
     "uptimeMonth": "42.38%",
     "uptimeYear": "59.83%",
     "time": 880,
@@ -70,7 +70,7 @@
     "timeMonth": 334,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-02-09": 453,
+      "2022-02-09": 463,
       "2022-02-08": 983,
       "2022-02-01": 110,
       "2022-01-25": 1105,
@@ -196,12 +196,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "59.87%",
-    "uptimeWeek": "58.70%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "98.54%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "59.28%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "98.54%",
     "time": 846,
     "timeDay": 409,
     "timeWeek": 437,
@@ -215,7 +215,7 @@
       "2022-02-05": 751,
       "2022-02-04": 582,
       "2022-02-03": 658,
-      "2022-02-02": 235
+      "2022-02-02": 176
     }
   }
 ]
