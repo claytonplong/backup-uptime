@@ -61,7 +61,7 @@
     "status": "down",
     "uptime": "59.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.97%",
+    "uptimeWeek": "66.75%",
     "uptimeMonth": "42.38%",
     "uptimeYear": "59.43%",
     "time": 880,
@@ -70,7 +70,7 @@
     "timeMonth": 334,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-02-10": 907,
+      "2022-02-10": 928,
       "2022-02-09": 1440,
       "2022-02-08": 983,
       "2022-02-01": 110,
@@ -197,12 +197,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "53.04%",
-    "uptimeWeek": "61.17%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "98.62%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "53.03%",
+    "uptimeWeek": "61.32%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "98.63%",
     "time": 829,
     "timeDay": 418,
     "timeWeek": 434,
@@ -215,7 +215,7 @@
       "2022-02-07": 485,
       "2022-02-06": 714,
       "2022-02-05": 751,
-      "2022-02-04": 421
+      "2022-02-04": 406
     }
   }
 ]
