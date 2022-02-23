@@ -6,18 +6,16 @@
     "slug": "www-offsitedatasync-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
     "timeDay": 1099,
     "timeWeek": 533,
     "timeMonth": 403,
     "timeYear": 785,
-    "dailyMinutesDown": {
-      "2022-02-23": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.keepitsafe",
@@ -62,9 +60,9 @@
     "slug": "offsitedatasync-com",
     "status": "up",
     "uptime": "60.04%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "72.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "72.39%",
     "uptimeYear": "60.04%",
     "time": 839,
     "timeDay": 669,
@@ -72,7 +70,6 @@
     "timeMonth": 349,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-02-23": 12,
       "2022-02-14": 1006,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -204,12 +201,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "59.08%",
-    "uptimeWeek": "59.21%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "59.07%",
+    "uptimeWeek": "59.69%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "98.66%",
     "time": 729,
     "timeDay": 431,
     "timeWeek": 462,
@@ -222,7 +219,7 @@
       "2022-02-20": 421,
       "2022-02-19": 647,
       "2022-02-18": 694,
-      "2022-02-17": 562
+      "2022-02-17": 513
     }
   }
 ]
