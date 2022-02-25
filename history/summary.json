@@ -62,12 +62,12 @@
     "uptime": "60.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.75%",
+    "uptimeMonth": "78.77%",
     "uptimeYear": "60.41%",
     "time": 847,
     "timeDay": 946,
     "timeWeek": 697,
-    "timeMonth": 436,
+    "timeMonth": 443,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2022-02-14": 1006,
@@ -168,11 +168,11 @@
     "icon": "https://favicons.githubusercontent.com/keepitsafe.com",
     "slug": "keepitsafe",
     "status": "up",
-    "uptime": "93.45%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.45%",
+    "uptimeYear": "93.46%",
     "time": 430,
     "timeDay": 374,
     "timeWeek": 459,
@@ -201,11 +201,11 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "59.25%",
-    "uptimeWeek": "58.70%",
-    "uptimeMonth": "90.50%",
+    "uptimeDay": "60.03%",
+    "uptimeWeek": "58.91%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "98.64%",
     "time": 719,
     "timeDay": 468,
@@ -220,7 +220,7 @@
       "2022-02-21": 715,
       "2022-02-20": 421,
       "2022-02-19": 647,
-      "2022-02-18": 135
+      "2022-02-18": 114
     }
   }
 ]
