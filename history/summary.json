@@ -4,9 +4,9 @@
     "url": "https://www.offsitedatasync.com",
     "icon": "https://favicons.githubusercontent.com/www.offsitedatasync.com",
     "slug": "www-offsitedatasync-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1570,
     "timeMonth": 725,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "www.keepitsafe",
@@ -203,12 +205,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "64.50%",
-    "uptimeWeek": "60.65%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "61.12%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "98.75%",
     "time": 697,
     "timeDay": 460,
     "timeWeek": 459,
@@ -221,7 +223,7 @@
       "2022-02-27": 629,
       "2022-02-26": 624,
       "2022-02-25": 582,
-      "2022-02-24": 326
+      "2022-02-24": 278
     }
   }
 ]
