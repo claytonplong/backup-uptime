@@ -62,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/offsitedatasync.com",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "62.70%",
+    "uptime": "62.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.23%",
-    "uptimeYear": "62.70%",
+    "uptimeMonth": "87.25%",
+    "uptimeYear": "62.71%",
     "time": 859,
     "timeDay": 235,
     "timeWeek": 849,
@@ -204,12 +204,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "53.92%",
-    "uptimeMonth": "89.40%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "55.41%",
+    "uptimeMonth": "89.74%",
+    "uptimeYear": "98.61%",
     "time": 671,
     "timeDay": 499,
     "timeWeek": 479,
@@ -222,7 +222,7 @@
       "2022-03-07": 691,
       "2022-03-06": 663,
       "2022-03-05": 677,
-      "2022-03-04": 762
+      "2022-03-04": 612
     }
   }
 ]
