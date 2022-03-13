@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 856,
     "timeDay": 0,
-    "timeWeek": 449,
+    "timeWeek": 332,
     "timeMonth": 1224,
     "timeYear": 856,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 617,
     "timeDay": 0,
-    "timeWeek": 843,
+    "timeWeek": 728,
     "timeMonth": 701,
     "timeYear": 617,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.97%",
     "time": 1252,
     "timeDay": 0,
-    "timeWeek": 326,
+    "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 1252,
     "dailyMinutesDown": {
@@ -66,11 +66,11 @@
     "uptime": "63.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.59%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "63.22%",
     "time": 847,
     "timeDay": 0,
-    "timeWeek": 392,
+    "timeWeek": 277,
     "timeMonth": 717,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -179,7 +179,7 @@
     "uptimeYear": "93.92%",
     "time": 429,
     "timeDay": 0,
-    "timeWeek": 440,
+    "timeWeek": 461,
     "timeMonth": 416,
     "timeYear": 429,
     "dailyMinutesDown": {
@@ -205,11 +205,11 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "50.03%",
-    "uptimeWeek": "57.77%",
-    "uptimeMonth": "90.28%",
+    "uptimeDay": "50.05%",
+    "uptimeWeek": "58.01%",
+    "uptimeMonth": "90.34%",
     "uptimeYear": "98.71%",
     "time": 662,
     "timeDay": 457,
@@ -217,13 +217,13 @@
     "timeMonth": 468,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-03-13": 680,
+      "2022-03-13": 712,
       "2022-03-12": 751,
       "2022-03-11": 662,
       "2022-03-10": 588,
       "2022-03-09": 644,
       "2022-03-08": 753,
-      "2022-03-07": 179
+      "2022-03-07": 123
     }
   }
 ]
