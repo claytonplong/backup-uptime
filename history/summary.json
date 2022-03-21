@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 839,
     "timeDay": 355,
-    "timeWeek": 340,
+    "timeWeek": 346,
     "timeMonth": 1224,
     "timeYear": 839,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 755,
-    "timeWeek": 636,
+    "timeWeek": 528,
     "timeMonth": 791,
     "timeYear": 618,
     "dailyMinutesDown": {}
@@ -72,7 +72,7 @@
     "uptimeYear": "64.46%",
     "time": 813,
     "timeDay": 332,
-    "timeWeek": 286,
+    "timeWeek": 287,
     "timeMonth": 697,
     "timeYear": 813,
     "dailyMinutesDown": {
@@ -175,14 +175,14 @@
     "icon": "https://favicons.githubusercontent.com/keepitsafe.com",
     "slug": "keepitsafe",
     "status": "up",
-    "uptime": "94.12%",
+    "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.12%",
+    "uptimeYear": "94.13%",
     "time": 433,
     "timeDay": 490,
-    "timeWeek": 530,
+    "timeWeek": 546,
     "timeMonth": 452,
     "timeYear": 433,
     "dailyMinutesDown": {
@@ -208,15 +208,15 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "57.81%",
-    "uptimeWeek": "58.30%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "57.79%",
+    "uptimeWeek": "58.67%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "98.78%",
     "time": 644,
     "timeDay": 459,
-    "timeWeek": 479,
+    "timeWeek": 480,
     "timeMonth": 472,
     "timeYear": 644,
     "dailyMinutesDown": {
@@ -226,7 +226,7 @@
       "2022-03-18": 874,
       "2022-03-17": 723,
       "2022-03-16": 590,
-      "2022-03-15": 54
+      "2022-03-15": 17
     }
   }
 ]
