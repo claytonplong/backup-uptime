@@ -182,11 +182,11 @@
     "icon": "https://favicons.githubusercontent.com/keepitsafe.com",
     "slug": "keepitsafe",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.78%",
+    "uptimeYear": "94.79%",
     "time": 447,
     "timeDay": 355,
     "timeWeek": 506,
@@ -215,12 +215,12 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "53.72%",
-    "uptimeWeek": "49.75%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "55.69%",
+    "uptimeWeek": "50.02%",
+    "uptimeMonth": "87.58%",
+    "uptimeYear": "98.58%",
     "time": 600,
     "timeDay": 476,
     "timeWeek": 472,
@@ -234,7 +234,7 @@
       "2022-04-16": 653,
       "2022-04-15": 922,
       "2022-04-14": 609,
-      "2022-04-13": 438
+      "2022-04-13": 403
     }
   }
 ]
