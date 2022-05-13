@@ -218,14 +218,14 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "48.16%",
-    "uptimeWeek": "56.75%",
-    "uptimeMonth": "88.94%",
+    "uptimeDay": "51.13%",
+    "uptimeWeek": "56.90%",
+    "uptimeMonth": "89.01%",
     "uptimeYear": "98.84%",
     "time": 582,
-    "timeDay": 486,
+    "timeDay": 489,
     "timeWeek": 493,
     "timeMonth": 475,
     "timeYear": 582,
@@ -238,7 +238,7 @@
       "2022-05-08": 572,
       "2022-05-07": 599,
       "2022-05-06": 724,
-      "2022-05-05": 35
+      "2022-05-05": 5
     }
   }
 ]
