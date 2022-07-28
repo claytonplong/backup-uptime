@@ -86,7 +86,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.99%",
+    "uptimeYear": "77.00%",
     "time": 1277,
     "timeDay": 1341,
     "timeWeek": 1416,
@@ -197,7 +197,7 @@
     "icon": "https://favicons.githubusercontent.com/keepitsafe.com",
     "slug": "keepitsafe",
     "status": "up",
-    "uptime": "96.19%",
+    "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -231,15 +231,15 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "44.24%",
-    "uptimeWeek": "50.25%",
-    "uptimeMonth": "87.87%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "45.87%",
+    "uptimeWeek": "50.67%",
+    "uptimeMonth": "88.11%",
+    "uptimeYear": "99.01%",
     "time": 533,
-    "timeDay": 443,
-    "timeWeek": 454,
+    "timeDay": 438,
+    "timeWeek": 453,
     "timeMonth": 444,
     "timeYear": 532,
     "dailyMinutesDown": {
@@ -250,7 +250,7 @@
       "2022-07-24": 493,
       "2022-07-23": 682,
       "2022-07-22": 809,
-      "2022-07-21": 365
+      "2022-07-21": 259
     }
   }
 ]
