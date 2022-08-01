@@ -34,10 +34,10 @@
     "url": "https://www.keepitsafe.com/",
     "icon": "https://favicons.githubusercontent.com/www.keepitsafe.com",
     "slug": "www-keepitsafe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
@@ -45,7 +45,9 @@
     "timeWeek": 637,
     "timeMonth": 520,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 1
+    }
   },
   {
     "name": "www.livevault",
@@ -192,9 +194,9 @@
     "url": "https://keepitsafe.com/",
     "icon": "https://favicons.githubusercontent.com/keepitsafe.com",
     "slug": "keepitsafe",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
@@ -204,6 +206,7 @@
     "timeMonth": 452,
     "timeYear": 445,
     "dailyMinutesDown": {
+      "2022-08-01": 0,
       "2022-06-25": 22,
       "2021-08-12": 978,
       "2021-08-11": 1440,
@@ -226,7 +229,7 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "46.33%",
-    "uptimeWeek": "45.75%",
+    "uptimeWeek": "45.90%",
     "uptimeMonth": "86.86%",
     "uptimeYear": "98.90%",
     "time": 531,
