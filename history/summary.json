@@ -84,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/offsitedatasync.com",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "77.26%",
+    "uptime": "77.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.38%",
+    "uptimeYear": "78.39%",
     "time": 1282,
     "timeDay": 1382,
     "timeWeek": 1514,
@@ -184,8 +184,7 @@
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
-      "2021-08-04": 1440,
-      "2021-08-03": 1440
+      "2021-08-04": 1440
     }
   },
   {
@@ -198,7 +197,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.35%",
     "time": 446,
     "timeDay": 468,
     "timeWeek": 484,
@@ -215,8 +214,7 @@
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
-      "2021-08-04": 1440,
-      "2021-08-03": 1440
+      "2021-08-04": 1440
     }
   },
   {
@@ -226,13 +224,13 @@
     "slug": "livevault",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "36.61%",
-    "uptimeWeek": "46.43%",
+    "uptimeDay": "37.24%",
+    "uptimeWeek": "46.94%",
     "uptimeMonth": "87.43%",
     "uptimeYear": "98.95%",
     "time": 531,
-    "timeDay": 470,
-    "timeWeek": 443,
+    "timeDay": 472,
+    "timeWeek": 444,
     "timeMonth": 446,
     "timeYear": 528,
     "dailyMinutesDown": {
