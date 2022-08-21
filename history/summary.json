@@ -89,7 +89,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.42%",
+    "uptimeYear": "83.43%",
     "time": 1345,
     "timeDay": 1619,
     "timeWeek": 1493,
@@ -198,24 +198,24 @@
     "slug": "livevault",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "57.13%",
-    "uptimeWeek": "50.37%",
-    "uptimeMonth": "88.49%",
+    "uptimeDay": "54.89%",
+    "uptimeWeek": "50.38%",
+    "uptimeMonth": "88.51%",
     "uptimeYear": "99.04%",
     "time": 525,
-    "timeDay": 426,
-    "timeWeek": 441,
+    "timeDay": 431,
+    "timeWeek": 440,
     "timeMonth": 445,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2022-08-21": 224,
+      "2022-08-21": 256,
       "2022-08-20": 674,
       "2022-08-19": 666,
       "2022-08-18": 770,
       "2022-08-17": 676,
       "2022-08-16": 642,
       "2022-08-15": 855,
-      "2022-08-14": 538
+      "2022-08-14": 498
     }
   }
 ]
