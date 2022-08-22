@@ -85,11 +85,11 @@
     "icon": "https://favicons.githubusercontent.com/offsitedatasync.com",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "78.37%",
+    "uptime": "78.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.59%",
+    "uptimeYear": "83.60%",
     "time": 1345,
     "timeDay": 1344,
     "timeWeek": 1511,
@@ -166,8 +166,7 @@
       "2021-08-26": 1101,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
-      "2021-08-23": 1440,
-      "2021-08-22": 1440
+      "2021-08-23": 1440
     }
   },
   {
@@ -199,7 +198,7 @@
     "status": "up",
     "uptime": "99.07%",
     "uptimeDay": "56.13%",
-    "uptimeWeek": "51.12%",
+    "uptimeWeek": "51.58%",
     "uptimeMonth": "88.15%",
     "uptimeYear": "99.01%",
     "time": 524,
