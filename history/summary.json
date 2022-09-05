@@ -88,7 +88,7 @@
     "icon": "https://favicons.githubusercontent.com/offsitedatasync.com",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "79.13%",
+    "uptime": "79.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -194,14 +194,14 @@
     "url": "https://livevault.com",
     "icon": "https://favicons.githubusercontent.com/livevault.com",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "36.70%",
-    "uptimeWeek": "53.79%",
-    "uptimeMonth": "87.66%",
+    "uptimeDay": "42.24%",
+    "uptimeWeek": "54.53%",
+    "uptimeMonth": "87.70%",
     "uptimeYear": "98.97%",
     "time": 521,
-    "timeDay": 453,
+    "timeDay": 451,
     "timeWeek": 453,
     "timeMonth": 447,
     "timeYear": 506,
@@ -215,7 +215,7 @@
       "2022-08-30": 859,
       "2022-08-29": 577,
       "2022-08-28": 662,
-      "2022-08-27": 25
+      "2022-08-27": 9
     }
   }
 ]
