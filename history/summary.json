@@ -14,7 +14,7 @@
     "timeDay": 1934,
     "timeWeek": 2270,
     "timeMonth": 2098,
-    "timeYear": 1468,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2022-09-09": 31,
       "2022-08-26": 29,
@@ -89,7 +89,7 @@
     "icon": "https://favicons.githubusercontent.com/offsitedatasync.com",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "79.98%",
+    "uptime": "79.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -98,7 +98,7 @@
     "timeDay": 1727,
     "timeWeek": 1745,
     "timeMonth": 1860,
-    "timeYear": 1429,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2022-09-09": 31,
       "2022-06-23": 22,
@@ -198,17 +198,17 @@
     "slug": "livevault",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "55.91%",
-    "uptimeWeek": "52.71%",
-    "uptimeMonth": "85.13%",
+    "uptimeDay": "54.67%",
+    "uptimeWeek": "51.85%",
+    "uptimeMonth": "85.07%",
     "uptimeYear": "98.76%",
     "time": 519,
-    "timeDay": 440,
-    "timeWeek": 423,
+    "timeDay": 438,
+    "timeWeek": 422,
     "timeMonth": 470,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-09-22": 237,
+      "2022-09-22": 324,
       "2022-09-21": 826,
       "2022-09-20": 873,
       "2022-09-19": 561,
@@ -218,7 +218,7 @@
       "2022-09-15": 513,
       "2022-09-14": 664,
       "2022-09-13": 790,
-      "2022-09-12": 62
+      "2022-09-12": 2
     }
   }
 ]
