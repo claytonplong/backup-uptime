@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/offsitedatasync.com.ico",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "80.57%",
+    "uptime": "80.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -196,14 +196,14 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "50.87%",
-    "uptimeWeek": "52.53%",
-    "uptimeMonth": "85.20%",
+    "uptimeDay": "53.59%",
+    "uptimeWeek": "52.72%",
+    "uptimeMonth": "85.25%",
     "uptimeYear": "98.77%",
     "time": 517,
-    "timeDay": 450,
+    "timeDay": 443,
     "timeWeek": 465,
     "timeMonth": 472,
     "timeYear": 491,
@@ -218,7 +218,7 @@
       "2022-09-28": 666,
       "2022-09-27": 667,
       "2022-09-26": 707,
-      "2022-09-25": 323
+      "2022-09-25": 303
     }
   }
 ]
