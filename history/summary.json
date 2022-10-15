@@ -12,7 +12,7 @@
     "uptimeYear": "99.87%",
     "time": 1518,
     "timeDay": 3852,
-    "timeWeek": 4900,
+    "timeWeek": 3093,
     "timeMonth": 3150,
     "timeYear": 1613,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
     "uptimeYear": "100.00%",
     "time": 590,
     "timeDay": 238,
-    "timeWeek": 464,
+    "timeWeek": 461,
     "timeMonth": 564,
     "timeYear": 576,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
     "uptimeYear": "99.89%",
     "time": 778,
     "timeDay": 461,
-    "timeWeek": 341,
+    "timeWeek": 329,
     "timeMonth": 316,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -89,14 +89,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/offsitedatasync.com.ico",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "81.04%",
+    "uptime": "81.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.89%",
     "time": 1459,
     "timeDay": 2097,
-    "timeWeek": 3757,
+    "timeWeek": 1847,
     "timeMonth": 2340,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "99.99%",
     "time": 442,
     "timeDay": 422,
-    "timeWeek": 421,
+    "timeWeek": 419,
     "timeMonth": 425,
     "timeYear": 446,
     "dailyMinutesDown": {
@@ -196,14 +196,14 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "43.53%",
-    "uptimeWeek": "46.45%",
-    "uptimeMonth": "83.98%",
-    "uptimeYear": "98.66%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "45.00%",
+    "uptimeWeek": "46.44%",
+    "uptimeMonth": "84.06%",
+    "uptimeYear": "98.67%",
     "time": 516,
-    "timeDay": 477,
+    "timeDay": 453,
     "timeWeek": 496,
     "timeMonth": 457,
     "timeYear": 486,
@@ -217,7 +217,7 @@
       "2022-10-09": 834,
       "2022-10-08": 668,
       "2022-10-07": 778,
-      "2022-10-06": 177
+      "2022-10-06": 139
     }
   }
 ]
