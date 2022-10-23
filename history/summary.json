@@ -194,15 +194,15 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "44.40%",
-    "uptimeWeek": "44.50%",
-    "uptimeMonth": "81.91%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "44.37%",
+    "uptimeWeek": "44.66%",
+    "uptimeMonth": "82.20%",
+    "uptimeYear": "98.52%",
     "time": 515,
     "timeDay": 433,
-    "timeWeek": 448,
+    "timeWeek": 450,
     "timeMonth": 462,
     "timeYear": 482,
     "dailyMinutesDown": {
@@ -216,7 +216,7 @@
       "2022-10-16": 584,
       "2022-10-15": 809,
       "2022-10-14": 761,
-      "2022-10-13": 194
+      "2022-10-13": 65
     }
   }
 ]
