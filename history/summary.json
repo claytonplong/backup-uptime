@@ -4,9 +4,9 @@
     "url": "https://www.offsitedatasync.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.offsitedatasync.com.ico",
     "slug": "www-offsitedatasync-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 3176,
     "timeYear": 1687,
     "dailyMinutesDown": {
+      "2022-11-01": 0,
       "2022-10-30": 145,
       "2022-09-09": 31,
       "2022-08-26": 29,
@@ -89,9 +90,9 @@
     "url": "https://offsitedatasync.com",
     "icon": "https://icons.duckduckgo.com/ip3/offsitedatasync.com.ico",
     "slug": "offsitedatasync-com",
-    "status": "up",
+    "status": "down",
     "uptime": "81.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.06%",
@@ -101,6 +102,7 @@
     "timeMonth": 2337,
     "timeYear": 1578,
     "dailyMinutesDown": {
+      "2022-11-01": 0,
       "2022-09-09": 31,
       "2022-06-23": 22,
       "2022-06-11": 38,
@@ -195,12 +197,12 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "59.41%",
-    "uptimeWeek": "57.54%",
-    "uptimeMonth": "86.42%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "59.38%",
+    "uptimeWeek": "57.61%",
+    "uptimeMonth": "86.63%",
+    "uptimeYear": "98.89%",
     "time": 513,
     "timeDay": 392,
     "timeWeek": 403,
@@ -216,7 +218,7 @@
       "2022-10-26": 520,
       "2022-10-25": 958,
       "2022-10-24": 729,
-      "2022-10-23": 481
+      "2022-10-23": 391
     }
   }
 ]
