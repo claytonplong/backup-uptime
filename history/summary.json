@@ -13,7 +13,7 @@
     "time": 1597,
     "timeDay": 3454,
     "timeWeek": 3144,
-    "timeMonth": 2754,
+    "timeMonth": 2726,
     "timeYear": 1749,
     "dailyMinutesDown": {
       "2022-11-02": 28,
@@ -49,7 +49,7 @@
     "time": 600,
     "timeDay": 579,
     "timeWeek": 1259,
-    "timeMonth": 710,
+    "timeMonth": 720,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2022-08-01": 18
@@ -69,7 +69,7 @@
     "time": 746,
     "timeDay": 208,
     "timeWeek": 306,
-    "timeMonth": 284,
+    "timeMonth": 283,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2022-11-06": 75,
@@ -102,7 +102,7 @@
     "time": 1495,
     "timeDay": 1343,
     "timeWeek": 1976,
-    "timeMonth": 1928,
+    "timeMonth": 1918,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2022-11-02": 28,
@@ -183,16 +183,16 @@
     "status": "down",
     "uptime": "96.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.31%",
-    "uptimeMonth": "86.49%",
-    "uptimeYear": "98.87%",
+    "uptimeWeek": "40.86%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "98.86%",
     "time": 440,
     "timeDay": 0,
     "timeWeek": 465,
-    "timeMonth": 398,
+    "timeMonth": 399,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-11-13": 1390,
+      "2022-11-13": 1435,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
@@ -206,16 +206,16 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "55.63%",
-    "uptimeWeek": "54.43%",
-    "uptimeMonth": "87.21%",
-    "uptimeYear": "98.93%",
+    "uptimeDay": "56.03%",
+    "uptimeWeek": "54.42%",
+    "uptimeMonth": "87.26%",
+    "uptimeYear": "98.94%",
     "time": 508,
     "timeDay": 365,
-    "timeWeek": 460,
-    "timeMonth": 439,
+    "timeWeek": 461,
+    "timeMonth": 430,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2022-11-13": 628,
@@ -226,7 +226,7 @@
       "2022-11-08": 701,
       "2022-11-07": 729,
       "2022-11-06": 647,
-      "2022-11-05": 361
+      "2022-11-05": 338
     }
   }
 ]
