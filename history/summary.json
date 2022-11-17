@@ -184,7 +184,7 @@
     "uptime": "95.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.56%",
+    "uptimeMonth": "74.50%",
     "uptimeYear": "97.87%",
     "time": 440,
     "timeDay": 0,
@@ -192,7 +192,7 @@
     "timeMonth": 394,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-11-17": 857,
+      "2022-11-17": 884,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
@@ -210,14 +210,14 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "49.16%",
-    "uptimeWeek": "56.29%",
-    "uptimeMonth": "87.94%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "49.13%",
+    "uptimeWeek": "56.28%",
+    "uptimeMonth": "88.06%",
+    "uptimeYear": "99.00%",
     "time": 509,
-    "timeDay": 386,
+    "timeDay": 389,
     "timeWeek": 372,
     "timeMonth": 420,
     "timeYear": 467,
@@ -230,7 +230,7 @@
       "2022-11-12": 695,
       "2022-11-11": 534,
       "2022-11-10": 667,
-      "2022-11-09": 475
+      "2022-11-09": 424
     }
   }
 ]
