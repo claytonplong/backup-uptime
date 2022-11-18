@@ -181,10 +181,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/keepitsafe.com.ico",
     "slug": "keepitsafe",
     "status": "down",
-    "uptime": "95.32%",
+    "uptime": "95.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.18%",
+    "uptimeMonth": "72.16%",
     "uptimeYear": "97.67%",
     "time": 440,
     "timeDay": 0,
@@ -192,7 +192,7 @@
     "timeMonth": 398,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-11-18": 461,
+      "2022-11-18": 471,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -211,14 +211,14 @@
     "url": "https://livevault.com",
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "47.94%",
+    "uptimeDay": "48.13%",
     "uptimeWeek": "55.58%",
-    "uptimeMonth": "87.40%",
+    "uptimeMonth": "87.46%",
     "uptimeYear": "98.95%",
     "time": 508,
-    "timeDay": 385,
+    "timeDay": 382,
     "timeWeek": 373,
     "timeMonth": 419,
     "timeYear": 467,
@@ -232,7 +232,7 @@
       "2022-11-12": 695,
       "2022-11-11": 534,
       "2022-11-10": 667,
-      "2022-11-09": 155
+      "2022-11-09": 131
     }
   }
 ]
