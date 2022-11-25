@@ -184,15 +184,16 @@
     "uptime": "94.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.24%",
-    "uptimeYear": "95.85%",
+    "uptimeMonth": "50.16%",
+    "uptimeYear": "95.84%",
     "time": 440,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 400,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-11-24": 1432,
+      "2022-11-25": 28,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -219,9 +220,9 @@
     "slug": "livevault",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "53.75%",
-    "uptimeMonth": "88.50%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "54.15%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "99.04%",
     "time": 504,
     "timeDay": 384,
@@ -229,14 +230,14 @@
     "timeMonth": 402,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2022-11-24": 621,
+      "2022-11-24": 610,
       "2022-11-23": 631,
       "2022-11-22": 664,
       "2022-11-21": 441,
       "2022-11-20": 789,
       "2022-11-19": 811,
       "2022-11-18": 707,
-      "2022-11-17": 379
+      "2022-11-17": 401
     }
   }
 ]
