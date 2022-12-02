@@ -13,7 +13,7 @@
     "time": 1643,
     "timeDay": 2958,
     "timeWeek": 3718,
-    "timeMonth": 2828,
+    "timeMonth": 2833,
     "timeYear": 1844,
     "dailyMinutesDown": {
       "2022-11-02": 28,
@@ -49,7 +49,7 @@
     "time": 597,
     "timeDay": 348,
     "timeWeek": 307,
-    "timeMonth": 684,
+    "timeMonth": 698,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2022-08-01": 18
@@ -69,7 +69,7 @@
     "time": 732,
     "timeDay": 285,
     "timeWeek": 422,
-    "timeMonth": 332,
+    "timeMonth": 335,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2022-11-28": 83,
@@ -103,7 +103,7 @@
     "time": 1503,
     "timeDay": 1284,
     "timeWeek": 1784,
-    "timeMonth": 1742,
+    "timeMonth": 1734,
     "timeYear": 1659,
     "dailyMinutesDown": {
       "2022-11-02": 28,
@@ -182,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/keepitsafe.com.ico",
     "slug": "keepitsafe",
     "status": "down",
-    "uptime": "92.67%",
+    "uptime": "92.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.32%",
-    "uptimeYear": "93.94%",
+    "uptimeMonth": "27.15%",
+    "uptimeYear": "93.92%",
     "time": 439,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 396,
+    "timeMonth": 405,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-12-01": 1390,
+      "2022-12-02": 27,
+      "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
@@ -227,24 +228,24 @@
     "slug": "livevault",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "57.43%",
-    "uptimeWeek": "54.36%",
-    "uptimeMonth": "89.50%",
+    "uptimeDay": "59.99%",
+    "uptimeWeek": "54.55%",
+    "uptimeMonth": "89.46%",
     "uptimeYear": "99.12%",
     "time": 502,
-    "timeDay": 364,
+    "timeDay": 369,
     "timeWeek": 375,
     "timeMonth": 396,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2022-12-01": 577,
+      "2022-12-01": 576,
       "2022-11-30": 721,
       "2022-11-29": 689,
       "2022-11-28": 837,
       "2022-11-27": 611,
       "2022-11-26": 642,
       "2022-11-25": 504,
-      "2022-11-24": 18
+      "2022-11-24": 37
     }
   }
 ]
