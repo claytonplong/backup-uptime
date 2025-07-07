@@ -8,13 +8,13 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.66%",
-    "time": 738,
-    "timeDay": 518,
-    "timeWeek": 526,
-    "timeMonth": 594,
-    "timeYear": 762,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.67%",
+    "time": 737,
+    "timeDay": 274,
+    "timeWeek": 474,
+    "timeMonth": 575,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-06-06": 16,
       "2025-05-29": 70,
@@ -53,8 +53,7 @@
       "2024-07-11": 35,
       "2024-07-10": 28,
       "2024-07-09": 34,
-      "2024-07-08": 34,
-      "2024-07-07": 44
+      "2024-07-08": 34
     }
   },
   {
@@ -66,13 +65,13 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.75%",
     "time": 630,
-    "timeDay": 480,
-    "timeWeek": 449,
-    "timeMonth": 518,
-    "timeYear": 697,
+    "timeDay": 572,
+    "timeWeek": 443,
+    "timeMonth": 479,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2025-06-06": 16,
       "2025-05-29": 70,
@@ -102,8 +101,7 @@
       "2024-07-12": 23,
       "2024-07-11": 35,
       "2024-07-09": 33,
-      "2024-07-08": 131,
-      "2024-07-07": 42
+      "2024-07-08": 131
     }
   },
   {
@@ -115,13 +113,13 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.72%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.73%",
     "time": 550,
-    "timeDay": 411,
-    "timeWeek": 387,
-    "timeMonth": 450,
-    "timeYear": 593,
+    "timeDay": 294,
+    "timeWeek": 361,
+    "timeMonth": 444,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-06-06": 16,
       "2025-05-29": 70,
@@ -153,8 +151,7 @@
       "2024-07-12": 23,
       "2024-07-11": 33,
       "2024-07-09": 32,
-      "2024-07-08": 147,
-      "2024-07-07": 41
+      "2024-07-08": 147
     }
   },
   {
@@ -163,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/offsitedatasync.com.ico",
     "slug": "offsitedatasync-com",
     "status": "up",
-    "uptime": "94.06%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.75%",
-    "time": 434,
-    "timeDay": 204,
-    "timeWeek": 217,
-    "timeMonth": 249,
-    "timeYear": 474,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.76%",
+    "time": 466,
+    "timeDay": 981,
+    "timeWeek": 327,
+    "timeMonth": 245,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-06-06": 15,
       "2025-05-29": 70,
@@ -199,8 +196,7 @@
       "2024-07-13": 27,
       "2024-07-12": 22,
       "2024-07-11": 18,
-      "2024-07-08": 145,
-      "2024-07-07": 39
+      "2024-07-08": 145
     }
   },
   {
@@ -214,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 519,
-    "timeDay": 184,
-    "timeWeek": 342,
+    "time": 518,
+    "timeDay": 219,
+    "timeWeek": 344,
     "timeMonth": 276,
-    "timeYear": 551,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2025-05-29": 70,
       "2025-05-18": 75,
@@ -237,8 +233,7 @@
       "2024-07-13": 26,
       "2024-07-12": 22,
       "2024-07-11": 18,
-      "2024-07-08": 50,
-      "2024-07-07": 39
+      "2024-07-08": 50
     }
   },
   {
@@ -247,16 +242,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/livevault.com.ico",
     "slug": "livevault",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 482,
-    "timeDay": 232,
-    "timeWeek": 212,
-    "timeMonth": 247,
-    "timeYear": 519,
+    "timeDay": 160,
+    "timeWeek": 193,
+    "timeMonth": 245,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-05-29": 70,
       "2025-05-18": 75,
@@ -277,8 +272,7 @@
       "2024-07-12": 21,
       "2024-07-11": 17,
       "2024-07-10": 17,
-      "2024-07-08": 48,
-      "2024-07-07": 37
+      "2024-07-08": 48
     }
   }
 ]
